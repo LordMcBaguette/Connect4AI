@@ -1,4 +1,4 @@
-
+import PositionClass
 
 
 def minimax(Match,Alpha=-100,Beta=100, Depth=0, IsMaxPlayer=True,StartPlayer=None):
